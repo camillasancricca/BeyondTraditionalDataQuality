@@ -1,6 +1,6 @@
 # Beyond Traditional Quality Models: Exploring Data Characteristics in Data-Centric AI
 
-<img src="/static/model.png" width="200" alt="Description">
+<img src="/static/model.png" width="400" alt="Description">
 
 Folders are organized as follows:
 
