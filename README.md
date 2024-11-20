@@ -1,6 +1,6 @@
 # Beyond Traditional Quality Models: Exploring Data Characteristics in Data-Centric AI
 
-![/model.pdf](https://github.com/camillasancricca/BeyondTraditionalDataQuality/blob/main/model.pdf)
+![Alt text](https://github.com/camillasancricca/BeyondTraditionalDataQuality/blob/main/model.pdf)
 
 Folders are organized as follows:
 
