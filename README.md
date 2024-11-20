@@ -1,4 +1,6 @@
-# Beyond Traditional Data Quality Dimensions in Data-Centric AI
+# Beyond Traditional Quality Models: Exploring Data Characteristics in Data-Centric AI
+
+![alt text](model.pdf)
 
 Folders are organized as follows:
 
