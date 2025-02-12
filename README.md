@@ -1,11 +1,11 @@
 # Exploring the Influence of Data Characteristics on Machine Learning Outcomes
 
-<p align="center">
-<img src="/static/model.png" width="500" alt="Description">
-</p>
-
 This repository contains the experiments conducted to develop and validate a quality model to be used in data-centric AI applications.
 Such a model includes all the possible data characteristics that may undermine the execution of a machine-learning pipeline and their related metrics.
+
+<p align="center">
+<img src="/static/model.png" width="400" alt="Description">
+</p>
 
 **Profile-related** data characteristics describe the profiling characteristics that can be automatically extracted from a dataset through data profiling operations:
 
