@@ -34,7 +34,7 @@ This repository contains:
 - Folder: 0_ASSESSMENT
   - *dataset* folder: it contains the datasets for computing the metrics
   - *plot* folder: it contains visualizations of the computed metrics
-  - *all.ipynb*: notebook for computing the proposed metrics on the example datasets
+  - *all.ipynb*: notebook for computing some of the proposed metrics on the example datasets
 
 2. **Experiments** including the code used for implementing a study on the impact of the identified data characteristics on machine learning performance and fairness.
 - Folder: 1_IMPACT
