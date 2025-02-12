@@ -1,4 +1,4 @@
-# Beyond Traditional Quality Models: Exploring Data Characteristics in Data-Centric AI
+# Exploring the Influence of Data Characteristics on Machine Learning Outcomes
 
 <p align="center">
 <img src="/static/model.png" width="500" alt="Description">
