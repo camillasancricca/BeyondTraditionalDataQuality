@@ -9,20 +9,20 @@ Such a model includes all the possible data characteristics that may undermine t
 
 **Profile-related** data characteristics describe the profiling characteristics that can be automatically extracted from a dataset through data profiling operations:
 
-- Dimensionality refers to the size (i.e., the number of features and instances) of a dataset
-- Data Types represent the count of numerical, categorical, or boolean variables in a dataset
-- Dependency is related to the presence of redundant or highly correlated features within a dataset
-- Imbalance is the deviation of the values distribution of a feature from an ideal Gaussian fit
-- Class Purity quantifies the presence of label errors or inconsistencies within the targeted class
-- Class Balance assesses the degree to which the values of the targeted class are equally distributed
-- Class Overlap measures the similarity of data points with different labels
+- *Dimensionality* refers to the size (i.e., the number of features and instances) of a dataset
+- *Data Types* represent the count of numerical, categorical, or boolean variables in a dataset
+- *Dependency* is related to the presence of redundant or highly correlated features within a dataset
+- *Imbalance* is the deviation of the values distribution of a feature from an ideal Gaussian fit
+- *Class Purity* quantifies the presence of label errors or inconsistencies within the targeted class
+- *Class Balance* assesses the degree to which the values of the targeted class are equally distributed
+- *Class Overlap* measures the similarity of data points with different labels
 
 **Bias-related** data characteristics aim to detect and measure the presence of bias in the training data:
 
-- Coverage represents the degree to which a dataset is representative of the real world
-- Disparity aims to assess whether there is a disparity in the label distribution among different demographic groups
-- Density is a measure of how densely concentrated certain values are within a feature
-- Diversity is a measure of the value heterogeneity within a feature
+- *Coverage* represents the degree to which a dataset is representative of the real world
+- *Disparity* aims to assess whether there is a disparity in the label distribution among different demographic groups
+- *Density* is a measure of how densely concentrated certain values are within a feature
+- *Diversity* is a measure of the value heterogeneity within a feature
 
 ---
 
